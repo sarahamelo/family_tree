@@ -184,7 +184,7 @@ Se você tiver `n` pessoas, o número de comparações de pares possíveis é da
 
 C(n,2) = n(n-1)/2
 
-Essa fórmula nos diz quantos pares distintos podemos formar a partir de um grupo de `n` pessoas. Agora vamos aplicar isso aos exemplos que você mencionou.
+Essa fórmula nos diz quantos pares distintos podemos formar a partir de um grupo de `n` pessoas. Agora vamos aplicar isso aos exemplos mencionados.
 
 #### Exemplo 1: 2 pessoas
 
