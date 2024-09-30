@@ -172,8 +172,6 @@ Essa função compara a idade de duas pessoas e decide quais relações familiar
 
 ### 3. Função `gerar_combinacoes`
 
-Ótima pergunta! Vamos esclarecer por que, na complexidade **O(n²)**, com 2 pessoas temos 1 comparação, com 3 pessoas temos 3 comparações, e com 10 pessoas temos 45 comparações.
-
 #### O que é O(n²)?
 
 Quando falamos em **O(n²)**, estamos nos referindo ao fato de que o número de operações (ou comparações) **cresce quadraticamente** com o número de elementos. Isso geralmente acontece quando estamos comparando todos os pares possíveis de elementos em um conjunto.
